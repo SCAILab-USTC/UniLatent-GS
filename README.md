@@ -1,5 +1,5 @@
 - **Download**: [clip](https://huggingface.co/openai/clip-vit-large-patch14) and [michelangelo](https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints/aligned_shape_latents) model weights
-- **Data**: Preprocessed DTU data is `processed_data.zip`
+- **Data**: `processed_data.zip`
 
 ### Installation
 
