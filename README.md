@@ -2,6 +2,10 @@
 
 This repository is the implementation for PRCV2026 paper "UniLatent-GS: Unified Multi-modal Priors for Sparse-View Gaussian Surface Reconstruction"
 
+![pipeline](./assets/pipeline.png)
+
+### Preparation
+
 - **Download**: [clip](https://huggingface.co/openai/clip-vit-large-patch14) and [michelangelo](https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints/aligned_shape_latents) model weights
 - **Data**: `processed_data.zip`
 
