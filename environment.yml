@@ -1,4 +1,4 @@
-name: env4paper
+name: unilatent_gs
 channels:
   - pytorch
   - nvidia
